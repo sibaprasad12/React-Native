@@ -25,4 +25,10 @@
 - npm install --save-dev babel-plugin-react-native-web (Babel Plugin for build time optimization)
 - npm install --save-dev babel-plugin-module-resolver  (Babel Module Aliasing)
 
+## Metro
+- Metro is a JavaScript bundler which takes in options, an entry file, and gives you a JavaScript file including all JavaScript files back. 
+- Every time you run a react native project, a compilation of many javascript files are done into a single file. 
+- This compilation is done by a bundler which is called Metro.
+- 
+
 
