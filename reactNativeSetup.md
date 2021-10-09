@@ -2,7 +2,7 @@
 - There are 2 ways you can set up react native app for mobile
 - 1. Using react native cli
 - 2. Using react native expo
-- 
+
 ## Basic commands for React Native
 - Install Jaja 1.8
 - Set up java home if you are using Windows laptop
@@ -29,6 +29,5 @@
 - Metro is a JavaScript bundler which takes in options, an entry file, and gives you a JavaScript file including all JavaScript files back. 
 - Every time you run a react native project, a compilation of many javascript files are done into a single file. 
 - This compilation is done by a bundler which is called Metro.
-- 
 
 
