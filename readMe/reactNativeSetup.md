@@ -18,6 +18,15 @@
 - react-native run-ios (To run in ios Device)
 - npx react-native run-ios
 
+## Create Project using Expo
+- **When Creating new Project**
+- npm install --global expo-cli
+- expo init my-project
+- expo start
+
+- **existing project**
+- npm install
+- npm start
 
 ## Web Setup
 - npm install react-dom react-native-web
